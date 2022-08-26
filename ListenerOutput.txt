@@ -1,0 +1,36 @@
+Test Passed!
+[TestResult name=dragnDrop status=SUCCESS method=dragAndDrop.dragnDrop()[pri:0, instance:dragAndDrop@55040f2f] output={null}]
+
+Test Passed!
+[TestResult name=disappearingElements status=SUCCESS method=DisappearingElements.disappearingElements()[pri:0, instance:DisappearingElements@5d47c63f] output={null}]
+
+Test Passed!
+[TestResult name=iFrameText status=SUCCESS method=IFrameText.iFrameText()[pri:0, instance:IFrameText@5ea434c8] output={null}]
+
+Test Passed!
+[TestResult name=slider status=SUCCESS method=Slider.slider()[pri:0, instance:Slider@3bbc39f8] output={null}]
+
+Test Passed!
+[TestResult name=newTab status=SUCCESS method=NewTab.newTab()[pri:0, instance:NewTab@4ae3c1cd] output={null}]
+
+Test Passed!
+[TestResult name=login status=SUCCESS method=Login.login(java.lang.String,java.lang.String)[pri:0, instance:Login@29f69090] output={null}]
+
+Test Passed!
+[TestResult name=login status=SUCCESS method=Login.login(java.lang.String,java.lang.String)[pri:0, instance:Login@29f69090] output={null}]
+
+Test Passed!
+[TestResult name=button1 status=SUCCESS method=ChallengeDOM.button1()[pri:0, instance:ChallengeDOM@568bf312] output={null}]
+
+Test Passed!
+[TestResult name=button2 status=SUCCESS method=ChallengeDOM.button2()[pri:0, instance:ChallengeDOM@568bf312] output={null}]
+
+Test Passed!
+[TestResult name=button3 status=SUCCESS method=ChallengeDOM.button3()[pri:0, instance:ChallengeDOM@568bf312] output={null}]
+
+Test Passed!
+[TestResult name=delButton status=SUCCESS method=ChallengeDOM.delButton()[pri:0, instance:ChallengeDOM@568bf312] output={null}]
+
+Test Passed!
+[TestResult name=editButton status=SUCCESS method=ChallengeDOM.editButton()[pri:0, instance:ChallengeDOM@568bf312] output={null}]
+

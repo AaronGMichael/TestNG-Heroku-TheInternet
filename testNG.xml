@@ -1,0 +1,18 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="The Internet Suite" thread-count="1" verbose="1" annotations="JDK" parallel="tests">
+    <test name="Heroku App">
+        <classes>
+            <class name="dragAndDrop"/>
+            <class name="DisappearingElements"/>
+            <class name="IFrameText"/>
+            <class name="Slider"/>
+            <class name="NewTab"/>
+            <class name="Login"/>
+            <class name="ChallengeDOM"/>
+        </classes>
+    </test>
+    <listeners>
+        <listener class-name="IListenerClass" />
+    </listeners>
+</suite> <!-- Suite -->
